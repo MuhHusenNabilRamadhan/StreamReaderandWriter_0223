@@ -45,5 +45,7 @@ int main()
             //dan menampilkan disini
             cout << baris << '\n';
         }
+        // tutup file tersebut setelah selesai
+        infile.close();
     }
 }
