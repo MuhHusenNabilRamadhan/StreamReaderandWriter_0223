@@ -1,0 +1,1 @@
+ "c:\PERTEMUAN 13\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
