@@ -8,5 +8,7 @@ int main()
     string baris;
 
     // membuat obyek output file stream dalam mode menulis
-    ofstream.outfile;
+    ofstream outfile;
+    // membuka file
+    outfile.open("contohfile.txt");
 }
